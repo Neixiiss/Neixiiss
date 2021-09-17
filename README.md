@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neixiiss
-- 👀 I’m interested in programming languages.
+- 👀 I’m interested in Programming Languages.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on --> not now :)
 - 📫 How to reach me --> who seeks will find!
